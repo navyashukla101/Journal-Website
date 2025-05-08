@@ -4,14 +4,6 @@ import "react-calendar/dist/Calendar.css";
 import PromptSection from "./components/PromptSection";
 
 const categories = {
-  "💪 Self-Based Prompts": [
-    "One thing I bring to this relationship that matters:",
-    "How I showed up with honesty or love recently:",
-    "Something I’m proud of about myself today (even if it feels small):",
-    "One pattern I noticed and paused before reacting:",
-    "One way I calmed or soothed myself instead of seeking outside reassurance:",
-    "A boundary I respected for myself (even internally):",
-  ],
 
   "🙏 Gratitude Question Prompts": [
     "What is one thing that happened today that I’m truly grateful for?",
@@ -33,6 +25,14 @@ const categories = {
     "What’s one small thing I can do today to nurture connection (without pressure)?",
     "What kind of partner do I want to be today?",
     "What is enough for me today — not perfect, just enough?",
+  ],
+   "💪 Self-Based Prompts": [
+    "One thing I bring to this relationship that matters:",
+    "How I showed up with honesty or love recently:",
+    "Something I’m proud of about myself today (even if it feels small):",
+    "One pattern I noticed and paused before reacting:",
+    "One way I calmed or soothed myself instead of seeking outside reassurance:",
+    "A boundary I respected for myself (even internally):",
   ],
   "💛 Relationship-Based Prompts": [
     "One thing my partner did recently that made me feel seen or cared for:",
